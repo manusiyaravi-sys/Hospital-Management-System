@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:2142225240083
+# Name:MANUSIYA R
+# Date:24-11-2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="2375" height="1342" alt="se4use" src="https://github.com/user-attachments/assets/c976b417-f838-42d7-a623-f5025e0671d7" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="2554" height="1308" alt="se44" src="https://github.com/user-attachments/assets/8eea2edd-9100-4497-b4e6-3febe4f8a21c" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -81,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="2560" height="1337" alt="se4pack" src="https://github.com/user-attachments/assets/eadde4ec-6dc7-4fcc-a5f6-24638a1bb469" />
 
 
 
