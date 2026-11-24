@@ -71,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="2548" height="1318" alt="sehos(com)" src="https://github.com/user-attachments/assets/0bc89c98-1fc3-498d-b6c6-0fa5d614a283" />
 
 
 # PACKAGE DIAGRAM:
@@ -102,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="2524" height="1334" alt="sehos(act)" src="https://github.com/user-attachments/assets/16bb7fc4-0149-44a0-ae9f-1ba70caae4ba" />
 
 
 
@@ -122,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="2537" height="1332" alt="sehos(seq)" src="https://github.com/user-attachments/assets/656f1320-fc9a-411d-83ff-da07520b2a41" />
 
 
 
